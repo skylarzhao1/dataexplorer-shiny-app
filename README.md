@@ -26,7 +26,7 @@ This app provides a full pipeline for **data loading, cleaning, feature engineer
 * Outlier detection (IQR, Z-score)
 * Scaling (Min-Max, Z-score, Robust)
 
-### ⚙️ Feature Engineering
+###  Feature Engineering
 
 * Mathematical transformations (log, sqrt, square, etc.)
 * Interaction features (A×B, A/B, etc.)
@@ -85,7 +85,7 @@ install.packages(c(
 
 ---
 
-## ▶️ Run Locally
+## Run Locally
 
 ```r
 shiny::runApp()
