@@ -1,0 +1,10 @@
+name: project2
+title:
+username: project2-team-webapplication
+account: project2-team-webapplication
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16973510
+bundleId: 11754897
+url: https://project2-team-webapplication.shinyapps.io/project2/
+version: 1
