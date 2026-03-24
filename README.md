@@ -1,25 +1,25 @@
-# 📊 DataExplorer Pro — Shiny App
+#  DataExplorer Pro — Shiny App
 
 An interactive data analysis web application built with R Shiny.
 This app provides a full pipeline for **data loading, cleaning, feature engineering, and exploratory data analysis (EDA)**.
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
 👉 https://project2-team-webapplication.shinyapps.io/project2/
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 📂 Data Loading
+### Data Loading
 
 * Upload datasets: CSV, Excel (.xlsx/.xls), JSON, RDS
 * Built-in datasets: `iris`, `mtcars`, `diamonds`, `airquality`
 * Automatic preview, summary statistics, and column insights
 
-### 🧹 Data Cleaning
+###  Data Cleaning
 
 * Missing value handling (mean, median, mode, constant)
 * Duplicate removal
@@ -32,7 +32,7 @@ This app provides a full pipeline for **data loading, cleaning, feature engineer
 * Interaction features (A×B, A/B, etc.)
 * Binning (equal width / quantile)
 
-### 📊 Exploratory Data Analysis (EDA)
+###  Exploratory Data Analysis (EDA)
 
 * Interactive Plotly visualizations:
 
@@ -43,7 +43,7 @@ This app provides a full pipeline for **data loading, cleaning, feature engineer
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * **R**
 * **Shiny**
@@ -54,7 +54,7 @@ This app provides a full pipeline for **data loading, cleaning, feature engineer
 
 ---
 
-## 📦 Installation
+## Installation
 
 Clone the repository:
 
@@ -93,7 +93,7 @@ shiny::runApp()
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 dataexplorer-shiny-app/
@@ -104,7 +104,7 @@ dataexplorer-shiny-app/
 
 ---
 
-## 💡 Highlights
+##  Highlights
 
 * End-to-end data workflow in a single Shiny application
 * Fully interactive UI with real-time feedback
